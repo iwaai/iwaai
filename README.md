@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwaai aka fardeen
-- 👀 I’m interested in python, game development, c#, unity ..
+- 👀 I’m interested in game development, c#, unity3d, python ..
 - 🌱 I’m currently learning data structures
 - 📫 How to reach me <a href="mailto:fdcuf7392@gmail.com"><click here :)></a>
 
