@@ -1,9 +1,9 @@
 <a href=''>
-<img align='right' src='/.github/itasleep.webp' widht=85 height=200 alt='.github/'></a>
+<img align='right' src='/.github/itasleep.webp' widht=70 height=200 alt='.github/'></a>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" widht=50 height=40 />  About Me:
 
-  👋  Hey there, I'm Fardeen Tariq  , a passionate Comp-Sci student from UIT-NED'24.
+  👋  Hey there, I'm Fardeen Tariq , a passionate Comp-Sci student from UIT-NED'24.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" widht=15 height=15 /> Flutter[@Techlancerz](https://www.linkedin.com/company/techlancerz/)🌟 | App Developer 💻 | Team-lead <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" widht=15 height=15 />
 - 🌐 Indie HyperCasual Game Dev | [GDSC](https://github.com/DSC-UIT-khi)'23 Core Team Member 
 
