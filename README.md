@@ -1,5 +1,5 @@
 <a href=''>
-<img align='right' src='/.github/itasleep.webp' widht=90 height=200 alt='.github/'></a>
+<img align='right' src='/.github/itasleep.webp' widht=85 height=200 alt='.github/'></a>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" widht=50 height=40 />  About Me:
 
