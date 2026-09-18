@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium-Light%20Skin%20Tone.png" widht=50 height=40 />  About Me:
 
-  👋  Hey there, I'm Fardeen Tariq , a passionate Comp-Sci student from UIT-NED'24.
+  👋  Hey there, I'm Iwan , a passionate Comp-Sci student from UIT-NED'24.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" widht=15 height=15 /> Flutter [@Qistbazaar](https://www.linkedin.com/company/qist-bazaar)🌟 | swe 💻 
 - 🌐 Indie HyperCasual Game Dev | [GDSC](https://github.com/DSC-UIT-khi)'23 Core Team Member 
 
