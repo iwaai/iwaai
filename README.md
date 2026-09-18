@@ -1,4 +1,4 @@
-<img align="right" width="240" src="./.github/itasleep.webp" alt="" />
+<img align="right" width="260" src="./.github/itasleep.webp" alt="" />
 
 # Iwan
 
@@ -7,15 +7,15 @@
 I build and ship real products across **fintech, AI, healthcare, e-commerce, and social.**
 Apps with **500K+ downloads.** Platforms serving **1M+ users.**
 
-Heads-down builder. Ships fast, sleeps later.
+> Heads-down builder. Ships fast, sleeps later.
 
 <br clear="right" />
 
-### Stack
+### 🧰 Stack
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,rust,go,py,cs,unity,docker,kubernetes,gcp,firebase,mysql,sqlite,linux,git,bash,postman,androidstudio&perline=9" alt="stack" />
 
-### Stats
+### 📈 Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iwaai&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide_title=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwaai&layout=compact&hide_border=true&theme=transparent&hide_title=true" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iwaai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwaai&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top languages" />
